@@ -63,6 +63,6 @@ These files contain the roots of the polynomial in a specific format for testing
 The program will output the constant term \( c \) for each test case provided.
 ![{C5690B5D-BD74-4C25-9CE9-043BA43C39B4}](https://github.com/user-attachments/assets/0cb0b103-04c8-4102-974f-1c320ce15eb0)
 
-A Little Humor
+## A Little Humor
 Why did the polynomial break up with the constant?
 Because it found someone more variable! 😄
